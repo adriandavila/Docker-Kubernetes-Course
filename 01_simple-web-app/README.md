@@ -1,0 +1,1 @@
+This was the first 'project' in the docker/kubernetes course designed to make you implement the basic pieces of a Dockerfile as well as learn how to debug certain errors that may be encountered while writing one.
